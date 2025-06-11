@@ -7,9 +7,7 @@ import {
   fadeInUp, 
   fadeInDown, 
   fadeIn, 
-  staggerContainer, 
-  cardHover, 
-  cardHoverSmall 
+  cardHover
 } from '@/utils/animations'
 
 const About = () => {
