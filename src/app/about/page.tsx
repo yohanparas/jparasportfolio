@@ -26,7 +26,7 @@ const About = () => {
         className="mb-16"
         {...fadeInUp}>
         <p className='text-lg text-secondary max-w-3xl mx-auto text-center'>
-          I am currently a Computer Science student. I love playing video games as well as technology in general. I also loved the idea of building something from scratch and making it work. It allows me to build something that may help or simplify a task.
+          I am currently a Computer Science student. I love playing video games and technology. I also love the idea of building something from scratch and making it work. It allows me to build something that may help or simplify a task.
         </p>
       </motion.section>
 
